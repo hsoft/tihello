@@ -16,7 +16,7 @@ Most first-hand information comes from [WikiTI][wikiti]
 
 ## Status
 
-Initializes the LCD and turns some pixels on.
+Complete! Does what it's supposed to do.
 
 ## Build
 
